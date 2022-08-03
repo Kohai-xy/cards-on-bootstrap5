@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #004B51;
+}
+.headertext{
+    margin-top: 30px;
+}
+.card1set{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.card2set{
+    margin-top: 90px;
+    margin-left: 60px;
+}
+.imgsettings{
+    margin-left: 55px;
+    margin-top: 30px;
+}
+.h1text{
+    margin-top: 20px;
+}
+.ptext{
+    text-align: center;
+}
+.iconimg{
+    position: relative;
+    left:105px;
+    top: 40px;
+}
+.iconimg:hover{
+    background-color: red;
+    overflow: hidden;
+}
